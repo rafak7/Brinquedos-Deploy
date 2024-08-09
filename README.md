@@ -10,7 +10,7 @@ Nesta versão do projeto, foram adicionados novos métodos HTTP para tornar a AP
 
 ## Link Deploy
 
-🚀: *https://brinquedos-deploy-hysi.onrender.com/*
+🚀: *https://deploy-brinquedos.onrender.com*
 
 ### HEAD
 
