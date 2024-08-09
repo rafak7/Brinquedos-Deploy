@@ -8,6 +8,10 @@ Este projeto implementa uma API completa para manipulação de brinquedos, permi
 
 Nesta versão do projeto, foram adicionados novos métodos HTTP para tornar a API mais robusta e completa, melhorando a flexibilidade e a capacidade de resposta da aplicação:
 
+## Link Deploy
+
+🚀: *https://brinquedos-deploy-hysi.onrender.com/*
+
 ### HEAD
 
 Este método foi adicionado para permitir a verificação da existência de um brinquedo específico sem a necessidade de retornar o corpo da resposta. É útil para validar se um recurso está disponível ou não, reduzindo o overhead de transferência de dados.
